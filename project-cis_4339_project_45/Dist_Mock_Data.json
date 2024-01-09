@@ -1,0 +1,7 @@
+[
+    {"type":"Food","location":"Minute Maid Park","date":"2021-09-01","distID":1},
+    {"type":"Shelter Relief","location":"NRG Stadium","date":"2021-09-07","distID":2},
+    {"type":"Food","location":"Emancipation Park","date":"2021-09-14","distID":3},
+    {"type":"Financial","location":"Hermann Park","date":"2021-09-28","distID":4},
+    {"type":"Food","location":"Minute Maid Park","date":"2021-10-01","distID":5}  
+]

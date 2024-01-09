@@ -1,0 +1,17 @@
+[
+    {"intakeID":1,"distID":5,"type":"Food","date":"2021-10-01"},
+    {"intakeID":2,"distID":4,"type":"Financial","date":"2021-09-28"},
+    {"intakeID":3,"distID":4,"type":"Financial","date":"2021-09-28"},
+    {"intakeID":4,"distID":2,"type":"Shelter Relief","date":"2021-09-07"},
+    {"intakeID":5,"distID":2,"type":"Shelter Relief","date":"2021-09-07"},
+    {"intakeID":6,"distID":1,"type":"Food","date":"2021-09-01"},
+    {"intakeID":7,"distID":3,"type":"Food","date":"2021-09-14"},
+    {"intakeID":8,"distID":5,"type":"Food","date":"2021-10-01"},
+    {"intakeID":9,"distID":3,"type":"Food","date":"2021-09-14"},
+    {"intakeID":10,"distID":2,"type":"Shelter Relief","date":"2021-09-07"},
+    {"intakeID":7,"distID":2,"type":"Shelter Relief","date":"2021-09-07"},
+    {"intakeID":8,"distID":1,"type":"Food","date":"2021-09-01"},
+    {"intakeID":1,"distID":3,"type":"Food","date":"2021-09-14"},
+    {"intakeID":7,"distID":5,"type":"Food","date":"2021-10-01"},
+    {"intakeID":5,"distID":1,"type":"Food","date":"2021-09-01"}
+]
